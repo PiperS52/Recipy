@@ -1,6 +1,10 @@
 # Recipy
 
+Homepage
+
 ![](images/Recipy-homepage-screenshot.png)
+
+Filtering recipes
 
 ![](images/Recipy-filter-screenshot.png)
 
@@ -81,8 +85,6 @@ npm test
 
 ## Contributions
 
-Many thanks to the rest of the Recipy team:
-[Lisa Bardelli](https://github.com/lisabardelli)
-[Zeen Lam](https://github.com/ZeenLamDev)
-[AJ Montgomery](https://github.com/AJSMonty)
-[Will Helliwell](https://github.com/Will-Helliwell)
+Many thanks to the rest of the Recipy team:<br/>
+[Lisa Bardelli](https://github.com/lisabardelli), [Zeen Lam](https://github.com/ZeenLamDev), 
+[AJ Montgomery](https://github.com/AJSMonty), and [Will Helliwell](https://github.com/Will-Helliwell)
