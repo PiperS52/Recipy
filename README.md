@@ -6,20 +6,9 @@
 
 ## Brief
 
-### Initial Spec
+This was a final project as part of Makers Academy. As a group we decided to design a food web app which would allow a
+user to select a recipe according to what they had in their cupboard, while being able to listen to a cuisine-themed playlist for some inspiration while they cook.
 
-**MVP**:
-- A web app
-- Access to a large bank of recipes (using WebScraper or API)
-- Display the recipes
-
- **Additional Features**
-- Ability to filter the recipes based on single/multiple ingredients
-- Spotify playlist
-- *Requires signup/login* - Ability to add recipes to favourites
-- *Requires signup/login* - Ability to add all ingredients for a recipe into a shopping cart (using whisk API)
-
----
 ## User Stories
 
 ```
@@ -79,16 +68,21 @@ Run the web app from the root folder:
 ```
 npm run dev
 ```
+The browser should then open the project url in your browser automatically at http://localhost:3000
+
 ## To run tests:
 
 ```
 npm test
 ```
----
-Runs the app in the development mode.
-
-The browser should open the project url in your browser automatically, but if not visit [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ## Additional resources:
 
 - Recipe Scraper - https://github.com/PiperS52/scraper
+
+## Contributions
+
+Many thanks to the rest of the Recipy team:
+[Lisa Bardelli](https://github.com/lisabardelli)
+[Zeen Lam](https://github.com/ZeenLamDev)
+[AJ Montgomery](https://github.com/AJSMonty)
+[Will Helliwell](https://github.com/Will-Helliwell)
