@@ -1,5 +1,7 @@
 # Recipy
 
+[![Build Status](https://travis-ci.org/PiperS52/Recipy.svg?branch=master)](https://travis-ci.org/PiperS52/Recipy)
+
 Homepage
 
 ![](images/Recipy-homepage-screenshot.png)
@@ -86,5 +88,5 @@ npm test
 ## Contributions
 
 Many thanks to the rest of the Recipy team:<br/>
-[Lisa Bardelli](https://github.com/lisabardelli), [Zeen Lam](https://github.com/ZeenLamDev), 
+[Lisa Bardelli](https://github.com/lisabardelli), [Zeen Lam](https://github.com/ZeenLamDev),
 [AJ Montgomery](https://github.com/AJSMonty), and [Will Helliwell](https://github.com/Will-Helliwell)
