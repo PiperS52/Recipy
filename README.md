@@ -1,9 +1,11 @@
-# **Recipy**
+# Recipy
 
-## About Project
+![](images/Recipy-homepage-screenshot.png)
 
- Recipy
----
+![](images/Recipy-filter-screenshot.png)
+
+## Brief
+
 ### Initial Spec
 
 **MVP**:
@@ -18,9 +20,8 @@
 - *Requires signup/login* - Ability to add all ingredients for a recipe into a shopping cart (using whisk API)
 
 ---
-### **User Stories**
+## User Stories
 
-#### Completed
 ```
 As a user
 Because I am obsessed with BBC
@@ -46,18 +47,7 @@ As a user
 I can listen to music with my meal
 I would like to have a link to a relaxing background music playlist from Spotify
 ```
-#### Future Features
-```
-As a user
-So that I can easily buy the food I need for next week
-I would like to add all ingredients from any recipe of my choice to my shopping cart with one click
-
-As a user
-To minimise food waste
-I do not want the 'add recipe ingredients' button to add ingredients I have already ticked to my shopping cart
-```
----
-### **Tech Summary**
+## Technologies used
 
 | Technology    | Use                           |
 | ------------- | ----------------------------- |
@@ -75,44 +65,30 @@ I do not want the 'add recipe ingredients' button to add ingredients I have alre
 | ESLint        | Linting                       |
 
 ---
-## **Getting started:**
+## Getting started:
 
 Clone this repository
-
 ```
-git clone https://github.com/AJSMonty/Recipy.git
+git clone https://github.com/PiperS52/Recipy.git
 ```
-
-Move to the project directory
-
-```
-cd Recipy
-```
-
-Run the package installer
-
+Run the package installer with the following command in the root folder, client folder, as well as inside web-api-auth-examples:
 ```
 npm install
 ```
----
-## **To run tests:**
+Run the web app from the root folder:
+```
+npm run dev
+```
+## To run tests:
 
 ```
 npm test
 ```
 ---
-## **To run the web app**
-
-In the project directory, run:
-```
-npm run dev
-```
 Runs the app in the development mode.
 
 The browser should open the project url in your browser automatically, but if not visit [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Additional resources:
 
-## **Links to Repositories**
-
-- Recipe Scraper - https://github.com/AJSMonty/scraper
-- Recipy - https://github.com/AJSMonty/Recipy
+- Recipe Scraper - https://github.com/PiperS52/scraper

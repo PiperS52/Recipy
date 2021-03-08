@@ -65,7 +65,7 @@ function App() {
   const token = params.access_token;
   const [loggedIn, setLoggedIn] = useState(token ? true : false);
   const [playlists, setPlaylists] = useState([]);
-  const [URIs, setURIs] = useState(['spotify:album:51QBkcL7S3KYdXSSA0zM9R']);
+  const [URIs, setURIs] = useState(['spotify:playlist:0gUutpl4Vqbbh9gHFKZwX1']);
   const URIsInput = useRef(null);
 
   if (token) {
